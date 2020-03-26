@@ -15,6 +15,6 @@ int main()
     cin >> firstNumber >> secondNumber;
     diffOfTwoNumbers = firstNumber - secondNumber;
     cout << firstNumber << " + " <<  secondNumber << " = " << diffOfTwoNumbers;   
-    //ADITYA RAJ'S edit is over till here
+    //ADITYA RAJ'S edit is over till here only
     return 0;
 }
