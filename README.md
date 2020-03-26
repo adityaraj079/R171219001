@@ -3,4 +3,7 @@
 
 
 
-THIS IS AAKASH NATHS'S REPO                       #This is change is by ADITYA RAJ
+THIS IS AAKASH NATHS'S REPO   
+and Akshat Goyal,Aditya Raj 
+and Dr. Monit Kapoor sir. 
+as Collaborator's
