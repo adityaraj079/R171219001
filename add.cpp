@@ -14,7 +14,7 @@ int main()
     cout << "Enter two integers: ";
     cin >> firstNumber >> secondNumber;
     diffOfTwoNumbers = firstNumber - secondNumber;
-    cout << firstNumber << " + " <<  secondNumber << " = " << diffOfTwoNumbers;   
+    cout << firstNumber << " - " <<  secondNumber << " = " << diffOfTwoNumbers;   
     //ADITYA RAJ'S edit is over till here only
     //Akshat's edit start
     cout<<"Enter Two integers for multiplication:";
