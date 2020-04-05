@@ -6,6 +6,23 @@ int data;
 Node *link; 
 }; 
 Node *top = Null; 
+// Aditya Raj part start
+void push(int max, int *curr) 
+{ 
+if(max<=*curr) 
+{ 
+cout<<”\n Stack is FULL\n”; 
+} else 
+{ 
+int value; 
+cin>>value; 
+Node *ptr = new Node; 
+ptr->data = value; 
+ptr->link = top; 
+*curr ++; 
+} 
+} 
+// Aditya Raj's part ends
                 //  R171219001's part start from here 
 void pop(int *curr) 
 { 
