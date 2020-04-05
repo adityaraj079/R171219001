@@ -6,7 +6,7 @@ int data;
 Node *link; 
 }; 
 Node *top = Null; 
-                // from R171219001
+                //  R171219001's part start from here 
 void pop(int *curr) 
 { 
 if(*curr == 0) 
@@ -19,7 +19,10 @@ delet(ptr);
 *curr--; 
 } 
 }
-// Akshat's Part sart from here
+//R171219001's part ends here
+
+
+// Akshat's Part start from here
 int main()
 {
 	int current = 0, maximum, choice;
