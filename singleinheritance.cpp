@@ -1,7 +1,7 @@
 #include <iostream> 
 using namespace std; 
   
-class Vehicle 
+class Vehicle    //Base Class
 { 
   public: 
     Vehicle() 
@@ -10,11 +10,11 @@ class Vehicle
     } 
 }; 
    
-class Car: public Vehicle
+class Car: public Vehicle    //Derived class
 { 
 }; 
   
 int main() 
 {    
-    Car obj;  return 0; 
+    Car obj;  return 0;     //object of class car
 } 
